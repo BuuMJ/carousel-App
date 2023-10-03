@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Carousel-img-App</string>
+    <string name="overview_1">The BMW X6 2023 has an impressive appearance, comfortable engine and is considered an SUV model with a reasonable price in the same luxury segment</string>
+    <string name="overview_2">This is a roadster, still following the traditional sports car layout. Because of the Miata lightweight construction and rear-wheel-drive architecture</string>
+    <string name="overview_3">The design of the Lamborghini Urus since its launch has immediately attracted attention with a blend of Aventador and Huracan on the appearance of a high-riding vehicle</string>
+    <string name="overview_4">The car has a 2.3-liter EcoBoost I4 engine and a 5.0-liter Coyote V8 engine that allows it to produce more power and better fuel economy.</string>
+    <string name="overview_5">Mclaren 720s 2023 has a front end design that is quite slim but equally modern and elegant. The main highlight at the front of the car is the two quite large light clusters.</string>
 </resources>
